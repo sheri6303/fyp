@@ -4,8 +4,7 @@ python:
 
 cache: pip
 install:
-  pip install -r requirments.txt
-
+  - pip install -r requirments.txt
 script:
   - pytest
 
