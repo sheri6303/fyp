@@ -7,6 +7,5 @@ install:
   
 
 script:
-  - python tests.py
 
 
