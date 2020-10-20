@@ -4,6 +4,6 @@ python:
 
 cache: pip
 install:
-  - pip install -r requirments.txt
+  - pip freeze install -r requirments.txt
 script:
   - pytest
