@@ -7,17 +7,3 @@ install:
   - pip install -r requirments.txt
 script:
   - pytest
-
-
-
-
-//before_install:
-//install:
-//before_script:
-//script:
-//after_success:
-//after_failure:
-//after_script:
-//before_deploy:
-//deploy:
-//after_deploy:
